@@ -17,7 +17,7 @@ setup(
         'dev': [
             'pylint',
             'ipdb',
-            'requests==2.20.0'
+            'requests==2.26.0'
         ]
     },
     entry_points="""
