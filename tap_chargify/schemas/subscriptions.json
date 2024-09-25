@@ -698,6 +698,12 @@
         "integer"
       ]
     },
+    "reference": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
     "next_product_handle": {
       "type": [
         "null",
